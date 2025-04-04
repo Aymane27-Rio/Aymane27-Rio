@@ -2,7 +2,7 @@
 
 ###  DevOps & Cloud Engineering Student (and also a Science & Philosophy enthusiast i guess?)
 
-I'm passionate about the intersection of technology, science, and philosophy. When I'm not automating infrastructure or deploying containers, you'll probably find me reading something about analytical philosophy or logic.
+always thrilled to learn about the intersection of technology, science, and philosophy. When I'm not automating infrastructure or deploying containers, you'll probably find me reading something about analytical philosophy or logic.
 
 ---
 
