@@ -1,12 +1,12 @@
-# Hello dear visitor
+# Hello!
 
-###  DevOps & Cloud Engineering Student (and also a Science & Philosophy enthusiast i guess?)
+###  DevOps & Cloud Engineering Student (a Science & Philosophy enthusiast too I guess?)
 
-always thrilled to learn about the intersection of technology, science, and philosophy. When I'm not automating infrastructure or deploying containers, you'll probably find me reading something about analytical philosophy or logic.
+Always thrilled to learn about the intersection of technology, science, and philosophy. When I'm not automating infrastructure or deploying containers, you'll probably find me reading something about analytical philosophy.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,14 +31,14 @@ always thrilled to learn about the intersection of technology, science, and phil
 
 ---
 
-### 📚 Currently Learning/Exploring
+###  Currently Learning/Exploring
 - Cloud Security & Architecture
 - Infrastructure as Code (IaC)
 - Quantum Computing Fundamentals
 
 ---
 
-### 📫 If you wanna get in touch!
+###  If you wanna get in touch!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLinkedInURL](https://www.linkedin.com/in/aymane-benmessaoud-662734287/))
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](benmessaoudaymane3@gmail.com)
@@ -46,4 +46,4 @@ always thrilled to learn about the intersection of technology, science, and phil
 ---
 
 > *"The universe is under no obligation to make sense to you."* - Neil deGrasse Tyson  
-> *"yeah, i know, i know nothing"* - Socrates... probably
+> *"yeah, I know, I know nothing"* - Socrates... probably
